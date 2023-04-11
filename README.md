@@ -13,4 +13,4 @@ if you have a good savestate for fightcade please create an [Issue](https://gith
 
 
 #### Example Submission
-![image](https://user-images.githubusercontent.com/45072324/231025583-db184bf9-91a1-4bc0-b075-6824afbda023.png)
+![image](https://user-images.githubusercontent.com/45072324/231047245-3e7eaad6-dacc-4287-8f7c-b3cf2fbc6802.png)

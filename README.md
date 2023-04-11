@@ -11,6 +11,9 @@ if you have a good savestate for fightcade please create an [Issue](https://gith
 - if a savestate requires cheats to make it complete please supply the savestate with the accompanying cheat file within the Issue.
 - A fitting description of the savestate. what does it unlock? at which screen does it start? etc.
 
+#### Questions?
+can be asked in the [Akira discord](https://discord.gg/daGByKw) under savestate submissions.
 
-#### Example Submission
+#### Example Submissions
+![image](https://user-images.githubusercontent.com/45072324/231130552-5c1f5e31-5dd7-4035-b061-0e4aa0f922cf.png)
 ![image](https://user-images.githubusercontent.com/45072324/231047245-3e7eaad6-dacc-4287-8f7c-b3cf2fbc6802.png)

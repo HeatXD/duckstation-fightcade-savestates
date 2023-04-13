@@ -5,6 +5,7 @@ if you have a good savestate for fightcade please create an [Issue](https://gith
 - Both controllers need to be enabled.
 - the game used to create the savestate has to be in the [CHD](https://i12bretro.github.io/tutorials/0323.html) (not bin/cue) file format.
 - the game has to be located in a folder called "ROMs" which is in the same directory as the duckstation executable this can be done like this in your settings.ini file. 
+
 ![image](https://user-images.githubusercontent.com/45072324/231890877-ba54332f-f6e2-4753-8e7d-42fcde509e01.png)
 
 - Savestates should be created with the SCPH-7000W bios.

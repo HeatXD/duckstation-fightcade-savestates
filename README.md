@@ -2,6 +2,7 @@
 if you have a good savestate for fightcade please create an [Issue](https://github.com/HeatXD/duckstation-fightcade-savestates/issues)!
 
 ### Requirements
+- use the latest revision of the game for the savestate.
 - Both controllers need to be enabled.
 - the game used to create the savestate has to be in the CHD file format.
 - the game has to be located in a folder called "ROMs" which is in the same directory as the duckstation executable this can be done like this in your settings.ini file. 

@@ -3,13 +3,14 @@ if you have a good savestate for fightcade please create an [Issue](https://gith
 
 ### Requirements
 - Use the latest revision of the game for the savestate.
-- Both controllers need to be enabled.
+- Both controllers need to be enabled, on digital mode (NOT analog).
 - the game used to create the savestate has to be in the CHD file format.
 - the game has to be located in a folder called "ROMs" which is in the same directory as the duckstation executable this can be done like this in your settings.ini file. 
 
 ![image](https://user-images.githubusercontent.com/45072324/231890877-ba54332f-f6e2-4753-8e7d-42fcde509e01.png)
 
-- There can only be one recursive path entry
+- There can only be one recursive path entry. Duckstation will automatically generate this .ini file on first launch. Edit it AFTER you launch for the first time, and remove/replace any prior entries for `RecursivePaths`.
+
 - Savestates MUST be created with the SCPH-7000W bios.
 - A [MD5 file hash](https://emn178.github.io/online-tools/md5_checksum.html) of the game should be supplied within the Issue.
 - ~~Savestates should be verified to be working on the current fightcade build.~~ 
